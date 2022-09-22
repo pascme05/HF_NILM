@@ -4,10 +4,10 @@ It aims to provide a baseline systems for both new and experienced researchers w
 the area of energy disaggregation and Non-Intrusive Load Monitoring using HF data.
 
 # Publication
-The HFNILM toolkit is part of the following NILM paper and tries to Please cite the following paper when using 
+The HFNILM toolkit is part of the following NILM paper. Please cite the following paper when using 
 the HFNILM toolkit:
 
-Pascal A. Schirmer and Iosif Mporas: High-Frequency Energy Disaggregation using Time Series Embedding 
+Schirmer, P.A.; Mporas, I. 2D Transformations of Energy Signals for Energy Disaggregation. Sensors 2022, 22, 7200. https://doi.org/10.3390/s22197200
 
 # Datasets
 An overview of a few datasets and their locations:
